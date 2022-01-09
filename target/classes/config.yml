@@ -1,0 +1,5 @@
+version: '1.0'
+prefixmessages: 'OsNoiaMS'
+nameworld: 'world'
+worldnether: 'world_nether'
+worldtheend: 'world_the_end'

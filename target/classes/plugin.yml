@@ -1,0 +1,12 @@
+name: 'bukkitOsNoia'
+version : '1.0'
+main: 'com.lucasdeb.bukkitosnoia.bukkitOsNoia'
+commands:
+  save:
+  setspawn:
+  spawn:
+  ofender:
+  tempo:
+  reparar:
+  luz:
+  back:

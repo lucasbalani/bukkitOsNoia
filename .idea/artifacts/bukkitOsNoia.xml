@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bukkitOsNoia">
+    <output-path>$PROJECT_DIR$/out/artifacts/bukkitOsNoia</output-path>
+    <root id="archive" name="bukkitOsNoia.jar">
+      <element id="module-output" name="bukkitOsNoia" />
+    </root>
+  </artifact>
+</component>

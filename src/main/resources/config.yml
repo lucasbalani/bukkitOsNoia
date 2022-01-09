@@ -1,0 +1,12 @@
+version: '1.0'
+prefixmessages: 'OsNoiaMS'
+nameworld: 'world'
+worldnether: 'world_nether'
+worldtheend: 'world_the_end'
+ConnectionFactory:
+  host: 'localhost'
+  port: '3306'
+  dbname: 'osNoiaDB'
+  user: 'root'
+  password: '14094164'
+  isMysql: True
